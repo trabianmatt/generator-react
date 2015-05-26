@@ -27,3 +27,5 @@ build/Release
 node_modules
 /lib/index.js
 /lib/styles.css
+
+sandbox/out
