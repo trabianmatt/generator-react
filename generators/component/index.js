@@ -34,8 +34,6 @@ module.exports = generators.NamedBase.extend({
 
     this.state.componentPath = path.join(this.state.componentsRoot, this.state.path);
 
-    this.log(this.state);
-
   },
 
   prompting: function() {
