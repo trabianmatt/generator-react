@@ -1,0 +1,10 @@
+{
+  "name": "<%= appname %>",
+  "version": "0.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "build": "env NODE_ENV=build webpack"
+  }
+}
